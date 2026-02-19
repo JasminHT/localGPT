@@ -1,0 +1,5 @@
+TO ENABLE VENV:
+source venv/bin/activate
+
+TO DISABLE:
+deactivate
